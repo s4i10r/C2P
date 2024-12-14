@@ -1,0 +1,6 @@
+*.txt
+!requirements.txt
+venv/
+py.swp
+
+
