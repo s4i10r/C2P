@@ -3,3 +3,7 @@
 venv/
 *.swp
 *.swo
+*.csv
+*.pdf
+test.*
+*.pyc
